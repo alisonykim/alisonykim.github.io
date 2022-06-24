@@ -30,7 +30,7 @@ defenestrate<br>
 <strong>German</strong><br>
 Eisbär (EN: <em>polar bear</em>, lit. <em>"ice bear"</em>)<br>
 Geschwindigkeitsbeschränkung (EN: <em>speed limit</em>)<br>
-Jod (EN: iodine)<br>
+Jod (EN: <em>iodine</em>)<br>
 </p>
 
 
@@ -46,6 +46,6 @@ pinderkaas (EN: <em>peanut butter</em>, lit. <em>"peanut cheese"</em>)<br>
 <!-- FINNISH -->
 <p>
 <strong>Finnish</strong><br>
-poika (EN: <em>boy, son</em>, note: nominative)<br>
+poika (EN: <em>boy, son</em>)<br>
 
 </p>
