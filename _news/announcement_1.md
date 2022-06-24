@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-06-24
 inline: true
 ---
 
-A simple inline announcement.
+English website is online! German version to come...

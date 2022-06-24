@@ -1,18 +1,10 @@
 ---
-layout: about
+layout: page
+permalink: /aboutme/
 title: about me
-permalink: /
-subtitle: 
-
-profile:
-  align: right
-  image: prof_pic.jpeg
-  address: >
-    <p>Zurich, Switzerland</p>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+# description: Materials for courses you taught. Replace this text with your description.
+nav: true
+nav_order: 1
 ---
 
 Hi!
