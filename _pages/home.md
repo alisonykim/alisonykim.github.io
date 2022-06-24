@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Alison Y. Kim
 permalink: /
 # subtitle: home
