@@ -9,15 +9,18 @@ profile:
   align: center
   image: prof_pic.jpeg
   address: >
-    <p>Photo taken in Bern, Switzerland</p>
+    <p>Me in Bern, Switzerland</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="font-size:36">Alison Y. Kim</p>
-<p style="font-size:24">&#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm --></p>
+<p style="font-size:large">&#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm --></p>
 
-
-(Digital) Linguistics student, Californian, Twilight Zone fan, Coop Chind
+<p>
+&#128218; (Digital) Linguistics student<br>
+&#65039; California native<br>
+&#128302; Twilight Zone fan<br>
+&#129361; Coop Chind<br>
+</p>
