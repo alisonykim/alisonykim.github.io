@@ -16,8 +16,8 @@ nav_order: 2
 
 <p>
 <strong>Natural Languages</strong><br>
-English (L1, native)<br>
-한국어 | Korean (L1, heritage)<br>
+English (Native)<br>
+한국어 | Korean (Heritage)<br>
 Hochdeutsch | High German (C1, business proficiency)<br>
 Schwiizerdüütsch | Swiss German (C1, excellent oral proficiency)<br>
 Français | French (A2)<br>
