@@ -16,12 +16,12 @@ nav_order: 2
 
 <p>
 <strong>Natural Languages</strong><br>
-English (Native)<br>
-한국어 | Korean (Heritage)<br>
-Hochdeutsch | High German (C1, business proficiency)<br>
-Schwiizerdüütsch | Swiss German (C1, excellent oral proficiency)<br>
-Français | French (A2)<br>
-Nederlands | Dutch (A2)
+English (L1, Native)<br>
+Korean (L1, Heritage)<br>
+High German (C1, Business proficiency)<br>
+Swiss German (C1, Excellent oral proficiency)<br>
+French (A2)<br>
+Dutch (A2)
 </p>
 
 <p>
