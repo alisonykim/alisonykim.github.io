@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 <p style="font-size:large">&#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm --></p>
 
 <p>
-&#128218; (Digital) Linguistics student<br>
-&#65039; California native<br>
+&#128218; Digital Linguistics student<br>
+&#9728;&#65039; California native<br>
 &#128302; Twilight Zone fan<br>
 &#129361; Coop Chind<br>
 </p>
