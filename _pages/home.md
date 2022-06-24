@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="font-size:24px">\[&#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->\]</p>
+<p style="font-size:24px">&lsqb;&#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->&rsqb;</p>
 
 <p>
 &#9728;&#65039; California native<br>
