@@ -11,8 +11,7 @@ nav_order: 5
 <p>
 <strong>English</strong><br>
 defenestrate<br>
-
-[potato](https://www.youtube.com/watch?v=pqnHn_LS9zs)<br>
+<a href="https://www.youtube.com/watch?v=pqnHn_LS9zs">potato</a><br>
 
 </p>
 
@@ -31,7 +30,7 @@ defenestrate<br>
 <strong>German</strong><br>
 Eisbär (EN: <em>polar bear</em>, lit. <em>"ice bear"</em>)<br>
 Geschwindigkeitsbeschränkung (EN: <em>speed limit</em>)<br>
-Jod (EN: iodine)</br>
+Jod (EN: iodine)<br>
 </p>
 
 

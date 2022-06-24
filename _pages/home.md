@@ -22,5 +22,6 @@ social: true  # includes social icons at the bottom of the page
 &#128187; Digital Linguistics student<br>
 &#9728;&#65039; California native<br>
 &#128302; Twilight Zone fan<br>
+&#129716; Plant tender<br>
 &#128722; Coop Chind
 </p>
