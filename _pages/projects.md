@@ -9,9 +9,7 @@ nav_order: 3
 horizontal: false
 ---
 
-Coming soon...
-
-<!-- pages/projects.md
+<!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -57,4 +55,4 @@ Coming soon...
   </div>
   {%- endif -%}
 {%- endif -%}
-</div> -->
+</div>
