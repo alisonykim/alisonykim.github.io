@@ -1,7 +1,7 @@
 ---
 layout: page
-title: words
-permalink: /favewords/
+title: words I like
+permalink: /words/
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
@@ -9,12 +9,14 @@ nav_order: 5
 
 Here are some words that I like:
 
+
 <!-- ENGLISH -->
 <p>
 <strong>English</strong><br>
 defenestrate<br>
 
 </p>
+
 
 <!-- KOREAN -->
 <p>
@@ -24,11 +26,14 @@ defenestrate<br>
 
 </p>
 
+
 <!-- GERMAN -->
 <p>
 <strong>German</strong><br>
+Geschwindigkeitsbeschränkung (EN: <em>speed limit</em>)<br>
 Eisbär (EN: <em>polar bear</em>, lit. <em>"ice bear"</em>)<br>
 </p>
+
 
 <!-- DUTCH -->
 <p>
@@ -38,9 +43,10 @@ pinderkaas (EN: <em>peanut butter</em>, lit. <em>"peanut cheese"</em>)<br>
 
 </p>
 
+
 <!-- FINNISH -->
 <p>
 <strong>Finnish</strong><br>
-poika (EN: <em>boy, son</em>)<br>
+poika (EN: <em>boy, son</em>, note: nominative)<br>
 
 </p>
