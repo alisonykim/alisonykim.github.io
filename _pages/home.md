@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="font-size:large">&#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm --></p>
+<p style="font-size:30px">&#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm --></p>
 
 <p>
 &#128218; Digital Linguistics student<br>
