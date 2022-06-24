@@ -9,9 +9,9 @@ nav_order: 2
 
 <p>
 <strong>Education</strong><br>
-2021-present M.A., Linguistics at University of Zurich (Zurich, Switzerland)<br>
-2019-2021 M.A., Clinical Psychology at The Wright Institute (Berkeley, CA, U.S.A.)<br>
-2012-2016 B.A., Physics at University of California, Berkeley (Berkeley, CA, U.S.A.)
+2021-present M.A., Linguistics @ University of Zurich<br>
+2019-2021 M.A., Clinical Psychology @ The Wright Institute<br>
+2012-2016 B.A., Physics @ University of California, Berkeley
 </p>
 
 <p>
