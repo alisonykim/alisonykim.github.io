@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Some words that tickle my fancy:
+Some words that I like because they make me laugh, sound adorable, are fun to pronounce, etc.
 
 
 

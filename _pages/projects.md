@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 # description: Academic
 nav: true
@@ -11,7 +11,7 @@ horizontal: false
 
 <!-- Classifying Reclaimed Slurs Using Naïve Bayes -->
 <p>
-&#128580; <strong><a href="https://gitlab.uzh.ch/alisonyong-ju.kim/classifying-reclaimed-slurs-in-automated-hate-speech-detection">Classifying Reclaimed Slurs Using Naïve Bayes</a></strong><br>
+&#128406; <strong><a href="https://gitlab.uzh.ch/alisonyong-ju.kim/classifying-reclaimed-slurs-in-automated-hate-speech-detection">Classifying Reclaimed Slurs Using Naïve Bayes</a></strong><br>
     Topics: Sentiment analysis, hate speech detection, binary classification<br>
     Final project, <em>Intermediate Methods and Programming in Digital Linguistics</em> (Spring 2022)
 </p>
@@ -28,7 +28,7 @@ horizontal: false
 
 <!-- Josephson Junction -->
 <p>
-<strong><a href="https://alisonykim.github.io/assets/jos.pdf">Josephson Junction Lab Report</a></strong><br>
+&#128267; <strong><a href="https://alisonykim.github.io/assets/jos.pdf">Josephson Junction Lab Report</a></strong><br>
     Topics: <em>Condensed matter physics, superconduction</em><br>
     Lab report, <em>Physics 111B: Advanced Experimentation Laboratory</em> (Spring 2016)
 </p>
