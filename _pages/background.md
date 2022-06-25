@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+This page will eventually be replaced by a PDF of my C.V., available in English and German.
+
 <!-- EDUCATION -->
 <p>
 <strong>Education</strong><br>
