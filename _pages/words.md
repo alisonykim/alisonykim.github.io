@@ -10,15 +10,6 @@ nav_order: 4
 Some words that I like because they make me laugh, sound pleasant, are fun to pronounce, etc.
 
 
-<!-- DUTCH -->
-<p>
-<strong>Dutch</strong><br>
-bladerdeeg (EN: <em>puff pastry</em>, lit. <em>"leaf dough"</em>)<br>
-pinderkaas (EN: <em>peanut butter</em>, lit. <em>"peanut cheese"</em>)<br>
-
-</p>
-
-
 <!-- ENGLISH -->
 <p>
 <strong>English</strong><br>
@@ -27,18 +18,13 @@ defenestrate<br>
 </p>
 
 
-<!-- FINNISH -->
+<!-- KOREAN -->
 <p>
-<strong>Finnish</strong><br>
-poika (EN: <em>boy, son</em>)<br>
-
-</p>
-
-
-<!-- FRENCH -->
-<p>
-<strong>French</strong><br>
-pomme de terre (EN: <em>potato</em>)<br>
+<strong>Korean</strong><br>
+<a href="https://forvo.com/word/%EA%B5%AC%EB%A6%84/#ko">구름 (EN: <em>cloud</em>)</a><br>
+<a href="https://forvo.com/word/%EB%B3%B4%EA%B8%80%EB%B3%B4%EA%B8%80/#ko">보글보글 (onomatopoeia for the sound of boiling liquid, often used for hot soups and stews)</a><br>
+<a href="https://forvo.com/word/%EC%86%90%EB%AA%A9/#ko">손목 (EN: <em>wrist</em>, lit. <em>"hand neck"</em>)</a><br>
+<a href="https://forvo.com/word/%ED%95%98%EB%A7%88/#ko">하마 (EN: <em>hippopotamus</em>)</a><br>
 
 </p>
 
@@ -54,12 +40,27 @@ Jod (EN: <em>iodine</em>)<br>
 </p>
 
 
-<!-- KOREAN -->
+<!-- DUTCH -->
 <p>
-<strong>Korean</strong><br>
-구름 (EN: <em>cloud</em>)<br>
-보글보글 (onomotopoeia for the sound of boiling liquid, often used for hot soups and stews)<br>
-손묵 (EN: <em>wrist</em>, lit. <em>"hand neck"</em>)<br>
-하마 (EN: <em>hippopotamus</em>)<br>
+<strong>Dutch</strong><br>
+bladerdeeg (EN: <em>puff pastry</em>, lit. <em>"leaf dough"</em>)<br>
+pinderkaas (EN: <em>peanut butter</em>, lit. <em>"peanut cheese"</em>)<br>
+
+</p>
+
+
+<!-- FRENCH -->
+<p>
+<strong>French</strong><br>
+pomme de terre (EN: <em>potato</em>)<br>
+promettre (EN: <em>to promise, to vow</em>)<br>
+
+</p>
+
+
+<!-- FINNISH -->
+<p>
+<strong>Finnish</strong><br>
+poika (EN: <em>boy, son</em>)<br>
 
 </p>
