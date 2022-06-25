@@ -4,7 +4,7 @@ title: Words I Like
 permalink: /words/
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 Some words that I like because they make me laugh, sound pleasant, are fun to pronounce, etc.
@@ -44,6 +44,14 @@ Jod (EN: <em>iodine</em>)<br>
 <strong>Dutch</strong><br>
 bladerdeeg (EN: <em>puff pastry</em>, lit. <em>"leaf dough"</em>)<br>
 pinderkaas (EN: <em>peanut butter</em>, lit. <em>"peanut cheese"</em>)<br>
+
+</p>
+
+
+<!-- FRENCH -->
+<p>
+<strong>Frencb</strong><br>
+week-end (EN: <em>weekend</em>)<br>
 
 </p>
 
