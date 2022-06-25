@@ -16,16 +16,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="font-size:16px">&#47; &#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->&#47;</p>
+<p style="font-size:20px">&#47; &#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->&#47;</p>
 
 <p>
-Hi!<br>
+Hello! I am a rising second-year student of (Digital) Linguistics at the University of Zurich. There, I'm also part of a team working on <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">stance detection in German</a>, with <a href="https://www.cl.uzh.ch/de/people/team/compling/klenner.html" target="_blank">Manfred Klenner</a> as my supervisor. My general NLP interests include sentiment analysis, named entity recognition, and coreference resolution.<br><br>
 
-I recently finished the first year of my M.A. in (Digital) Linguistics at the University of Zurich. Currently, I'm part of a team working on <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">stance detection in German</a>, with <a href="https://www.cl.uzh.ch/de/people/team/compling/klenner.html" target="_blank">Manfred Klenner</a> as my supervisor. My general NLP interests include sentiment analysis (e.g. hate speech detection), coreference resolution, and machine translation.<br>
+I'm originally from Los Angeles and spent almost a decade in the San Francisco Bay Area before moving to Zurich. I often miss the beach, though snow has grown on me during my time here.<br><br>
 
-I'm originally from Los Angeles and spent nine years in the San Francisco Bay Area before moving to Zurich. I often miss the beach, though snow has grown on me during my time here.<br>
-
-Outside of NLP, I'm passionate about mental healthcare, LGBTQ+ rights, veganism, and sustainable fashion. I enjoy solo traveling, taking long walks, going to the movies, and making Korean food for friends.<br>
+Outside of NLP, I'm passionate about mental healthcare, LGBTQ+ rights, veganism, and sustainable fashion. I enjoy solo traveling, taking long walks, going to the movies, and making Korean food for friends. I'm also a huge fan of the Swiss Federal Railways.<br><br>
 
 Lastly, I prefer Coop to Migros. But neither compares to <a href="https://g.page/BerkeleyBowlMarketplace?share" target="_blank">Berkeley Bowl</a>.<br>
 
