@@ -11,6 +11,6 @@ I recently finished the first year of my M.A. in (Digital) Linguistics at the Un
 
 I'm originally from Los Angeles and spent nine years in the San Francisco Bay Area before moving to Zurich. I often miss the beach, though snow has grown on me during my time here.
 
-My hobbies include taking solo trips, going to the movies, making Korean food for friends, and commuting with the Swiss Federal Railways. Outside of NLP, I'm passionate about mental healthcare, LGBTQ+ rights, veganism, and sustainable fashion.
+Outside of NLP, I'm passionate about mental healthcare, LGBTQ+ rights, veganism, and sustainable fashion. I enjoy solo traveling, taking long walks, going to the movies, and making Korean food for friends.
 
 Lastly, I prefer Coop to Migros. But neither compares to [Berkeley Bowl](https://g.page/BerkeleyBowlMarketplace?share){:target="\_blank"}.
