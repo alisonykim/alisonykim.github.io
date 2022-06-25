@@ -1,6 +1,6 @@
 ---
 layout: page
-title: background
+title: Background
 permalink: /background/
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true

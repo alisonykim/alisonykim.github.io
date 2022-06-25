@@ -1,17 +1,21 @@
 ---
 layout: page
-title: words I like
+title: Words I Like
 permalink: /words/
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
+Some words that tickle my fancy:
+
+
+
 <!-- ENGLISH -->
 <p>
 <strong>English</strong><br>
 defenestrate<br>
-<a href="https://www.youtube.com/watch?v=pqnHn_LS9zs">potato</a><br>
+
 
 </p>
 

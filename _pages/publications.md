@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: In progress :-)
+title: Publications
+description: Hopefully coming soon :-)
 years: [2022]
 nav: true
 nav_order: 4

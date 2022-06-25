@@ -5,54 +5,32 @@ permalink: /projects/
 # description: Academic
 nav: true
 nav_order: 3
-# display_categories: [work, fun]
+# display_categories: [python, ]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+<!-- Classifying Reclaimed Slurs Using Naïve Bayes -->
+<p>
+&#128580; <strong><a href="https://gitlab.uzh.ch/alisonyong-ju.kim/classifying-reclaimed-slurs-in-automated-hate-speech-detection">Classifying Reclaimed Slurs Using Naïve Bayes</a></strong><br>
+    Topics: Sentiment analysis, hate speech detection, binary classification<br>
+    Final project, <em>Intermediate Methods and Programming in Digital Linguistics</em> (Spring 2022)
+</p>
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+
+<!-- Dad Joke Generator -->
+<p>
+&#128580; <strong>Dad Joke Generator</strong><br>
+    <a href="https://gitlab.uzh.ch/alisonyong-ju.kim/dad-joke-package-pcl2-ex03">Part 1</a>: Package generation, structuring READMEs<br>
+    <a href="https://gitlab.uzh.ch/alisonyong-ju.kim/dad-joke-encodings-pcl2-ex04">Part 2</a>: Handling different file formats (JSON, XML) and encodings<br>
+    Select assignments, <em>Programming Techniques in Computational Linguistics II</em> (Spring 2022)
+</p>
+
+
+<!-- Josephson Junction -->
+<p>
+<strong><a href="https://alisonykim.github.io/assets/jos.pdf">Josephson Junction Lab Report</a></strong><br>
+    Topics: <em>Condensed matter physics, superconduction</em><br>
+    Lab report, <em>Physics 111B: Advanced Experimentation Laboratory</em> (Spring 2016)
+</p>
+
+<!-- pages/projects.md, to return to original format, pull from original repo: https://github.com/alshedivat/al-folio --> 
