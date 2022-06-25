@@ -19,7 +19,7 @@ horizontal: false
 
 <!-- Dad Joke Generator -->
 <p>
-&#128580; <strong>Dad Joke Generator</strong><br>
+&#129318;&#127995;&#8205;&#9792;&#65039; <strong>Dad Joke Generator</strong><br>
     <a href="https://gitlab.uzh.ch/alisonyong-ju.kim/dad-joke-package-pcl2-ex03">Part 1</a>: Package generation, structuring READMEs<br>
     <a href="https://gitlab.uzh.ch/alisonyong-ju.kim/dad-joke-encodings-pcl2-ex04">Part 2</a>: Handling different file formats (JSON, XML) and encodings<br>
     Select assignments, <em>Programming Techniques in Computational Linguistics II</em> (Spring 2022)
@@ -28,7 +28,7 @@ horizontal: false
 
 <!-- Josephson Junction -->
 <p>
-&#128267; <strong><a href="https://alisonykim.github.io/assets/jos.pdf">Josephson Junction Lab Report</a></strong><br>
+&#128267; <strong><a href="https://alisonykim.github.io/assets/pdf/jos.pdf">Josephson Junction Lab Report</a></strong><br>
     Topics: <em>Condensed matter physics, superconduction</em><br>
     Lab report, <em>Physics 111B: Advanced Experimentation Laboratory</em> (Spring 2016)
 </p>

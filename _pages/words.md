@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Some words that I like because they make me laugh, sound adorable, are fun to pronounce, etc.
+Some words that I like because they make me laugh, sound pleasant, are fun to pronounce, etc.
 
 
 
@@ -32,6 +32,7 @@ defenestrate<br>
 <!-- GERMAN -->
 <p>
 <strong>German</strong><br>
+Eichhörnchen (EN: <em>squirrel</em>, lit. diminutive form of <em>"acorn"</em>)<br>
 Eisbär (EN: <em>polar bear</em>, lit. <em>"ice bear"</em>)<br>
 Geschwindigkeitsbeschränkung (EN: <em>speed limit</em>)<br>
 Jod (EN: <em>iodine</em>)<br>
