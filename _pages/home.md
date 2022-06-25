@@ -9,7 +9,7 @@ profile:
   align: center
   image: prof_pic.jpeg
   address: >
-    <p>Rose Garden, Bern, Switzerland</p>
+    <p>Rose Garden in Bern, Switzerland</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
