@@ -22,7 +22,7 @@ defenestrate<br>
 <p>
 <strong>Korean</strong><br>
 <a href="https://forvo.com/word/%EA%B5%AC%EB%A6%84/#ko" target="_blank">구름</a> (EN: <em>cloud</em>)<br>
-<a href="https://forvo.com/word/%EB%B3%B4%EA%B8%80%EB%B3%B4%EA%B8%80/#ko" target="_blank">보글보글</a> (onomatopoeia for the sound of boiling liquid, often used for hot soups and stews)<br>
+<a href="https://forvo.com/word/%EB%B3%B4%EA%B8%80%EB%B3%B4%EA%B8%80/#ko" target="_blank">보글보글</a> (onomatopoeia for the sound of boiling liquid, often used to describe soups and stews)<br>
 <a href="https://forvo.com/word/%EC%86%90%EB%AA%A9/#ko" target="_blank">손목</a> (EN: <em>wrist</em>, lit. <em>"hand neck"</em>)<br>
 <a href="https://forvo.com/word/%ED%95%98%EB%A7%88/#ko" target="_blank">하마</a> (EN: <em>hippopotamus</em>)<br>
 
@@ -52,7 +52,7 @@ pinderkaas (EN: <em>peanut butter</em>, lit. <em>"peanut cheese"</em>)<br>
 <!-- FRENCH -->
 <p>
 <strong>French</strong><br>
-pomme de terre (EN: <em>potato</em>)<br>
+pomme de terre (EN: <em>potato</em>, lit. <em>"apple from the earth"</em>)<br>
 promettre (EN: <em>to promise, to vow</em>)<br>
 
 </p>
