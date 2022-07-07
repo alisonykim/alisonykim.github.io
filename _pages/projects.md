@@ -12,7 +12,7 @@ horizontal: false
 <!-- Classifying Reclaimed Slurs Using Naïve Bayes -->
 <p>
 &#128406; <strong><a href="https://gitlab.uzh.ch/alisonyong-ju.kim/classifying-reclaimed-slurs-in-automated-hate-speech-detection" target="_blank">Classifying Reclaimed Slurs Using Naïve Bayes</a></strong><br>
-    Topics: Sentiment analysis, hate speech detection, binary classification<br>
+    Topics: <em>Sentiment analysis, hate speech detection, binary classification, Naïve Bayes</em><br>
     Final project, <em>Intermediate Methods and Programming in Digital Linguistics</em> (Spring 2022)
 </p>
 
