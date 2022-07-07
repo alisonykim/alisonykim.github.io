@@ -32,10 +32,10 @@ defenestrate<br>
 <!-- GERMAN -->
 <p>
 <strong>German</strong><br>
-Eichhörnchen (EN: <em>squirrel</em>, lit. diminutive form of <em>"acorn"</em>)<br>
-Eisbär (EN: <em>polar bear</em>, lit. <em>"ice bear"</em>)<br>
-Geschwindigkeitsbeschränkung (EN: <em>speed limit</em>)<br>
-Jod (EN: <em>iodine</em>)<br>
+<a href="https://forvo.com/word/eichh%C3%B6rnchen/#de" target="_blank">Eichhörnchen</a> (EN: <em>squirrel</em>, lit. diminutive form of <em>"acorn"</em>)<br>
+<a href="https://forvo.com/word/eisb%C3%A4r/#de" target="_blank">Eisbär</a> (EN: <em>polar bear</em>, lit. <em>"ice bear"</em>)<br>
+<a href="https://forvo.com/word/geschwindigkeitsbeschr%C3%A4nkung/#de" target="_blank">Geschwindigkeitsbeschränkung</a> (EN: <em>speed limit</em>)<br>
+<a href="https://forvo.com/word/jod/#de" target="_blank">Jod</a> (EN: <em>iodine</em>)<br>
 
 </p>
 
@@ -43,8 +43,9 @@ Jod (EN: <em>iodine</em>)<br>
 <!-- DUTCH -->
 <p>
 <strong>Dutch</strong><br>
-bladerdeeg (EN: <em>puff pastry</em>, lit. <em>"leaf dough"</em>)<br>
-pinderkaas (EN: <em>peanut butter</em>, lit. <em>"peanut cheese"</em>)<br>
+<a href="https://forvo.com/word/aardbei/#nl" target="_blank">aardbei</a> (EN: <em>strawberry</em>)<br>
+<a href="https://forvo.com/word/bladerdeeg/#nl" target="_blank">bladerdeeg</a> (EN: <em>puff pastry</em>, lit. <em>"leaf dough"</em>)<br>
+<a href="https://forvo.com/word/pindakaas/#nl" target="_blank">pindakaas</a> (EN: <em>peanut butter</em>, lit. <em>"peanut cheese"</em>)<br>
 
 </p>
 
@@ -52,8 +53,8 @@ pinderkaas (EN: <em>peanut butter</em>, lit. <em>"peanut cheese"</em>)<br>
 <!-- FRENCH -->
 <p>
 <strong>French</strong><br>
-pomme de terre (EN: <em>potato</em>, lit. <em>"apple from the earth"</em>)<br>
-promettre (EN: <em>to promise, to vow</em>)<br>
+<a href="https://forvo.com/word/pomme_de_terre/#fr" target="_blank">pomme de terre</a> (EN: <em>potato</em>, lit. <em>"apple from the earth"</em>)<br>
+<a href="https://forvo.com/word/promettre/#fr" target="_blank">promettre</a> (EN: <em>to promise, to vow</em>)<br>
 
 </p>
 
@@ -61,6 +62,6 @@ promettre (EN: <em>to promise, to vow</em>)<br>
 <!-- FINNISH -->
 <p>
 <strong>Finnish</strong><br>
-poika (EN: <em>boy, son</em>)<br>
+<a href="https://forvo.com/word/poika/#fi" target="_blank">poika</a> (EN: <em>boy, son</em>)<br>
 
 </p>
