@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 <p>
 Hi there! I am currently pursuing a Master's in (Digital) Linguistics at the University of Zurich. There, I'm also part of a team working on an SNSF-funded project on <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">stance detection in German</a>.<br><br>
 
-Originally, I'm from Los Angeles, California. I often miss its beaches and tacos, though snow and Bircher Müesli have grown on me during my time in Switzerland.<br><br>
+I was born and raised in Los Angeles, California. Naturally, I miss its beaches and tacos, though snow and Bircher Müesli have grown on me during my time in Switzerland.<br><br>
 
-Outside of computational linguistics, I'm passionate about mental healthcare, LGBTQ+ rights, veganism, and sustainable fashion. I enjoy traveling solo, taking walks, going to the movies, and making Korean food for friends. I'm also a huge fan of the Swiss Federal Railways and can be found from time to time in what I call my "train office".<br><br>
+Outside of computational linguistics, I'm passionate about mental healthcare, LGBTQ+ rights, veganism, and sustainable fashion. I enjoy traveling solo, taking walks, going to the movies, and making Korean food for friends. I'm also a huge fan of the Swiss Federal Railways and can be found working from time to time in what I call my "train office".<br><br>
 
 Lastly, I prefer Coop to Migros. But neither compares to <a href="https://g.page/BerkeleyBowlMarketplace?share" target="_blank">Berkeley Bowl</a>.<br>
 
