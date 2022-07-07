@@ -19,11 +19,11 @@ social: true  # includes social icons at the bottom of the page
 <p style="font-size:20px">&#47; &#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->&#47;</p>
 
 <p>
-I am a Master's student of (Digital) Linguistics at the University of Zurich. Currently, I'm part of a team working on <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">stance detection in German</a>, with <a href="https://www.cl.uzh.ch/de/people/team/compling/klenner.html" target="_blank">Manfred Klenner</a> as my supervisor. My general research interests include sentiment analysis, named entity recognition, and coreference resolution.<br><br>
+Hi! I'm a Master's student of Digital Linguistics at the University of Zurich (UZH). Currently, I'm part of a team working on <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">stance detection in German</a>, with <a href="https://www.cl.uzh.ch/de/people/team/compling/klenner.html" target="_blank">Manfred Klenner</a> as my supervisor. My general research interests include sentiment analysis, named entity recognition, and coreference resolution for English and German texts.<br><br>
 
-Originally, I'm from Los Angeles, California. I often miss the beach, though snow has grown on me during my time in Switzerland.<br><br>
+I'm originally from Los Angeles, California. I often miss the beach and regular sunlight, though snow has grown on me during my time in Switzerland.<br><br>
 
-Outside of computational linguistics, I am passionate about mental healthcare, LGBTQ+ rights, veganism, and sustainable fashion. I enjoy traveling solo, taking long walks, going to the movies, and making Korean food for friends. I'm also a huge fan of the Swiss Federal Railways.<br><br>
+Outside of computational linguistics, I'm passionate about mental healthcare, LGBTQ+ rights, veganism, and sustainable fashion. I enjoy traveling solo, taking walks, going to the movies, and making Korean food for friends. I'm also a huge fan of the Swiss Federal Railways.<br><br>
 
 Lastly, I prefer Coop to Migros. But neither compares to <a href="https://g.page/BerkeleyBowlMarketplace?share" target="_blank">Berkeley Bowl</a>.<br>
 
