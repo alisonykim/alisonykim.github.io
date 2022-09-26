@@ -25,8 +25,7 @@ English (L1, Native)<br>
 Korean (L1, Heritage)<br>
 High German (C1, Business proficiency)<br>
 Swiss German (C1, Excellent oral proficiency)<br>
-French (A2)<br>
-Dutch (A2)
+French (A2/B1, Lower-intermediate written and oral proficiency)<br>
 </p>
 
 
@@ -35,5 +34,6 @@ Dutch (A2)
 <strong>Programming Languages</strong><br>
 Python (intermediate)<br>
 MATLAB (intermediate)<br>
+SQL (basic)<br>
 R (basic)
 </p>
