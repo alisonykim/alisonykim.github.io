@@ -62,6 +62,6 @@ defenestrate<br>
 <p>
 <strong>Finnish</strong><br>
 <a href="https://forvo.com/word/poika/#fi" target="_blank">poika</a> (EN: <em>boy, son</em>)<br>
-<a href="https://forvo.com/word/poronkusema/#fi" target="_blank">poronkusema</a> (EN: <em>maximum distance that a reindeer can run at a time (~7,5 km)</em>)
+<a href="https://forvo.com/word/poronkusema/#fi" target="_blank">poronkusema</a> (EN: <em>maximum distance that a reindeer can run at a time, approx. 7,5 km</em>)
 
 </p>
