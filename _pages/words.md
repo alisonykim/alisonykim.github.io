@@ -54,7 +54,6 @@ defenestrate<br>
 <p>
 <strong>French</strong><br>
 <a href="https://forvo.com/word/pomme_de_terre/#fr" target="_blank">pomme de terre</a> (EN: <em>potato</em>, lit. <em>"apple from the earth"</em>)<br>
-<a href="https://forvo.com/word/promettre/#fr" target="_blank">promettre</a> (EN: <em>to promise, to vow</em>)<br>
 
 </p>
 
@@ -63,5 +62,6 @@ defenestrate<br>
 <p>
 <strong>Finnish</strong><br>
 <a href="https://forvo.com/word/poika/#fi" target="_blank">poika</a> (EN: <em>boy, son</em>)<br>
+<a href="https://forvo.com/word/poronkusema/#fi" target="_blank">poronkusema</a> (EN: <em>maximum distance that a reindeer can run at a time (~7,5 km)</em>)
 
 </p>
