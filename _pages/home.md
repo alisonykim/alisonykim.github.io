@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 <p style="font-size:20px">&#47; &#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->&#47;</p>
 
 <p>
-Hi there! I am currently pursuing a Master's in (Digital) Linguistics at the University of Zurich (UZH). There, I'm also part of a <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">German-language stance detection</a> project led by <a href="https://www.cl.uzh.ch/de/people/team/compling/klenner.html" target="_blank">Manfred Klenner</a>. For my M.A. thesis on neural language models, I am co-advised by Manfred Klenner (UZH), <a href="https://cimeister.github.io/" target="_blank">Clara Meister</a> (ETH Zürich), and <a href="https://rycolab.io/" target="_blank">Ryan Cotterell</a> (ETH Zürich).<br><br>
+Hi there! I am currently pursuing a Master's in (Digital) Linguistics at the University of Zurich (UZH). There, I'm part of a <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">German-language stance detection</a> project led by <a href="https://www.cl.uzh.ch/de/people/team/compling/klenner.html" target="_blank">Manfred Klenner</a>. For my M.A. thesis on decoding strategies, I am co-advised by Manfred Klenner (UZH), <a href="https://cimeister.github.io/" target="_blank">Clara Meister</a> (ETH Zürich), and <a href="https://rycolab.io/" target="_blank">Ryan Cotterell</a> (ETH Zürich).<br><br>
 
 I was born and raised in Los Angeles, California. I miss its beaches and tacos, though snow and bürli have grown on me during my time in Switzerland.<br><br>
 
