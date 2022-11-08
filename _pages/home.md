@@ -19,13 +19,16 @@ social: true  # includes social icons at the bottom of the page
 <p style="font-size:20px">&#47; &#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->&#47;</p>
 
 <p>
-Hi there! I am a third-semester M.A. student of (digital) linguistics at the University of Zurich (UZH). There, I'm working on a <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">German-language stance detection</a> project led by <a href="https://www.cl.uzh.ch/de/people/team/compling/klenner.html" target="_blank">Manfred Klenner</a>. For my M.A. thesis on decoding strategies for NLG, I am co-advised by <a href="https://bricksdont.github.io/" target="_blank">Mathias Müller (UZH)</a>, <a href="https://rycolab.io/" target="_blank">Ryan Cotterell</a> (ETH Zürich), and <a href="https://cimeister.github.io/" target="_blank">Clara Meister</a> (ETH Zürich).<br><br>
+Hi there! I am a third-semester M.A. student of (digital) linguistics at the University of Zurich (UZH). There, I'm working on a <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">German-language stance detection</a> project led by <a href="https://www.cl.uzh.ch/de/people/team/compling/klenner.html" target="_blank">Manfred Klenner</a>. For my M.A. thesis on decoding strategies for NLG, I am co-advised by <a href="https://bricksdont.github.io/" target="_blank">Mathias Müller<a href="#section1">[1]</a></a>, <a href="https://rycolab.io/" target="_blank">Ryan Cotterell</a><a href="#section2">[2]</a>, and <a href="https://cimeister.github.io/" target="_blank">Clara Meister</a> <a href="#section2">[2].<br><br>
 
 I was born and raised in Los Angeles, California. I miss its beaches and tacos, though snow and bürli have grown on me during my time in Switzerland.<br><br>
 
 Outside of language, I'm passionate about mental healthcare, LGBTQ+ rights, veganism, and sustainable fashion. I'm also a huge fan of the Swiss Federal Railways and can be found coding or reading from time to time in what I call my "train office".<br><br>
 
 Lastly, I prefer Coop to Migros. But neither will ever compare to <a href="https://g.page/BerkeleyBowlMarketplace?share" target="_blank">Berkeley Bowl</a>.<br>
+
+<p id="section1">[1] University of Zürich</p>
+<p id="section2">[2] ETH Zürich</p>
 
 <!-- A non-exhaustive list of things I enjoy:<br>
 &#127827; Fruit<br>
