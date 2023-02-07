@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-This page will eventually be replaced by a PDF of my C.V., available in English and German.
+This page will eventually be replaced by PDFs of my CVs, available in English and German.
 
 <!-- EDUCATION -->
 <p>
@@ -26,14 +26,14 @@ Korean (L1, Heritage)<br>
 High German (C1, Business proficiency)<br>
 Swiss German (C1, Excellent oral proficiency)<br>
 French (A2/B1, Lower-intermediate written and oral proficiency)<br>
+Danish (A0, Beginner)<br>
 </p>
 
 
 <!-- PROGRAMMING LANGUAGES -->
 <p>
 <strong>Programming Languages</strong><br>
-Python (intermediate)<br>
-MATLAB (intermediate)<br>
-SQL (basic)<br>
-R (basic)
+Python<br>
+MATLAB<br>
+R
 </p>
