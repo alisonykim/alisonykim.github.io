@@ -8,7 +8,7 @@ permalink: /
 profile:
   align: center
   image: photo_closeup.jpeg
-  address: >
+  # address: >
     # <p>Rose Garden in Bern, Switzerland</p>
 
 news: true  # includes a list of news items
