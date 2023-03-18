@@ -12,7 +12,7 @@ horizontal: false
 <!-- Thesis Project -->
 <p>
 &#128292; <strong><a href="https://github.com/alisonykim/ma-thesis-learning-a-decoding-objective" target="_blank">Learning a decoding objective from human-generated text</a></strong><br>
-    Advisors: <em><a href="https://www.cl.uzh.ch/de/people/team/compling/sennrich.html" target="_blank">Prof. Dr. Rico Sennrich</a></em>, <em><a href="https://rycolab.io/" target="_blank">Prof. Dr. Ryan Cotterell</a></em>, <em><a href="https://cimeister.github.io/" target="_blank">Clara Meister, M.Sc.</a><br>
+    Advisors: <em><a href="https://www.cl.uzh.ch/de/people/team/compling/sennrich.html" target="_blank">Prof. Dr. Rico Sennrich</a></em>, <em><a href="https://rycolab.io/" target="_blank">Prof. Dr. Ryan Cotterell</a></em>, <em><a href="https://cimeister.github.io/" target="_blank">Clara Meister, M.Sc.</a></em><br>
     Topics: <em>Natural language generation</em>, <em>large language models</em>, <em>machine learning</em>, <em>scientific writing</em><br>
     Master's Thesis, <em>Department of Computational Linguistics, University of Zurich</em> (ongoing)
 </p>
