@@ -28,6 +28,9 @@ horizontal: false
 </p>
 
 
+---
+
+
 <!-- Dad Joke Generator -->
 <p>
 &#129318;&#127995;&#8205;&#9792;&#65039; <strong>Dad Joke Generator</strong><br>
@@ -35,6 +38,9 @@ horizontal: false
     <a href="https://gitlab.uzh.ch/alisonyong-ju.kim/dad-joke-encodings-pcl2-ex04" target="_blank">Part 2</a>: Handling different file formats (JSON, XML) and encodings<br>
     Select assignments, <em>Programming Techniques in Computational Linguistics II</em> (Spring 2022)
 </p>
+
+
+---
 
 
 <!-- Josephson Junction -->
