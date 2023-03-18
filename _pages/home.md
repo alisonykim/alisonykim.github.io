@@ -21,9 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <p>
 I'm an M.A. student of digital linguistics in my final semester at the University of Zurich (UZH). For my thesis on decoding strategies in NLG, I am co-advised by <a href="https://www.cl.uzh.ch/de/people/team/compling/sennrich.html" target="_blank">Rico Sennrich</a> (UZH), <a href="https://rycolab.io/" target="_blank">Ryan Cotterell</a> (ETH), and <a href="https://cimeister.github.io/" target="_blank">Clara Meister</a> (ETH). From September 2022 to February 2023, I worked on a <a href="https://www.cl.uzh.ch/en/texttechnologies/research/opinionmining/sentiment-inference.html" target="_blank">German-language stance detection</a> project led by <a href="https://www.cl.uzh.ch/de/people/team/compling/klenner.html" target="_blank">Manfred Klenner</a>.<br><br>
 
-Currently, I am looking for a technical role in engineering and/or consulting to further actualize my passion for language technology. I look forward to developing my growing technical skills, creativity, and effective communication style in my next position.<br><br>
-
-Outside of language technology, I am passionate about mental healthcare, LGBTQ+ rights, vegan cooking, and sustainable fashion. I'm also a huge fan of the Swiss Federal Railways and can often be found coding or reading in what I call my "train office".<br><br>
+Currently, I am looking for a technical role in engineering and/or consulting to further actualize my passion for language technology. I am thrilled to apply and hone my technical and professional communication skills in my next position.<br><br>
 
 
 <!-- A non-exhaustive list of things I enjoy:<br>
