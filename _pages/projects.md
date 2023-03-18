@@ -18,17 +18,12 @@ horizontal: false
 </p>
 
 
----
-
 <!-- Classifying Reclaimed Slurs Using Naïve Bayes -->
 <p>
 &#128406; <strong><a href="https://gitlab.uzh.ch/alisonyong-ju.kim/classifying-reclaimed-slurs-in-automated-hate-speech-detection" target="_blank">Classifying reclaimed slurs using naïve Bayes</a></strong><br>
     Topics: <em>Sentiment analysis</em>, <em>hate speech detection</em>, <em>binary classification</em>, <em>Naïve Bayes</em><br>
     Final project, <em>Intermediate Methods and Programming in Digital Linguistics</em> (Spring 2022)
 </p>
-
-
----
 
 
 <!-- Dad Joke Generator -->
@@ -38,9 +33,6 @@ horizontal: false
     <a href="https://gitlab.uzh.ch/alisonyong-ju.kim/dad-joke-encodings-pcl2-ex04" target="_blank">Part 2</a>: Handling different file formats (JSON, XML) and encodings<br>
     Select assignments, <em>Programming Techniques in Computational Linguistics II</em> (Spring 2022)
 </p>
-
-
----
 
 
 <!-- Josephson Junction -->
