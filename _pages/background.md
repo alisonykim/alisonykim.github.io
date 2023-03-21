@@ -12,6 +12,5 @@ This page will eventually be replaced by PDFs of my CVs, available in English an
 
 <!-- Josephson Junction -->
 <p>
-<strong>Curriculum Vitae:</strong> <a href="https://alisonykim.github.io/assets/pdf/cv_en.pdf" target="_blank">English</a><br>
-<strong>Curriculum Vitae:</strong> German (to come)
+<strong>Curriculum Vitae:</strong> <a href="https://alisonykim.github.io/assets/pdf/cv_en.pdf" target="_blank">English</a>, German (to come)
 </p>
