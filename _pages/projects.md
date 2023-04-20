@@ -17,6 +17,21 @@ horizontal: false
 	Master's Thesis, <em>Department of Computational Linguistics, University of Zurich</em> (ongoing)
 </p>
 
+<!-- FS23: Machine Translation -->
+<!-- <p>
+&#128483; <strong><a href="https://github.com/alisonykim/ma-machine-translation-fs23-exercises" target="_blank">Maschinelle Übersetzung / Machine Translation (Spring 2023)</a></strong><br>
+	Instructor: <a href="https://www.cl.uzh.ch/de/people/team/compling/sennrich.html" target="_blank">Rico Sennrich</a><br>
+	Topics: <em>Machine translation systems and evaluation</em>
+	Exercises, <em>Maschinelle Übersetzung / Machine Translation</em> (Spring 2023)
+</p> -->
+
+<!-- Stancer -->
+<!-- <p>
+&#128101; <strong><a href="https://github.com/alisonykim/ma-machine-translation-fs23-exercises" target="_blank">Stancer: German-language stance detection</a></strong><br>
+	Principal Investigator: <a href="https://www.cl.uzh.ch/de/people/team/compling/sennrich.html" target="_blank">Manfred Klenner, Ph.D.</a><br>
+	Topics: <em>Machine translation systems and evaluation</em>
+</p> -->
+
 
 <!-- Classifying Reclaimed Slurs Using Naïve Bayes -->
 <p>
@@ -38,7 +53,7 @@ horizontal: false
 <!-- Josephson Junction -->
 <p>
 &#128267; <strong><a href="https://alisonykim.github.io/assets/pdf/jos.pdf" target="_blank">Josephson Junction</a></strong><br>
-	Advisors: <em><a href="https://physics.berkeley.edu/people/faculty/hartmut-haeffner" target="_blank">Dr. Hartmut Haeffner, Ph.D.</a></em>; <em><a href="https://physics.berkeley.edu/people/faculty/kam-bui-luk" target="_blank">Dr. Kam-Biu Luk, Ph.D.</a></em><br>
+	Instructors: <em><a href="https://physics.berkeley.edu/people/faculty/hartmut-haeffner" target="_blank">Dr. Hartmut Haeffner, Ph.D.</a></em>; <em><a href="https://physics.berkeley.edu/people/faculty/kam-bui-luk" target="_blank">Dr. Kam-Biu Luk, Ph.D.</a></em><br>
 	Topics: <em>Condensed matter physics</em>, <em>superconduction</em>, <em>experimentation</em><br>
 	Lab report, <em>Physics 111B: Advanced Experimentation Laboratory</em> (Spring 2016)
 </p>
