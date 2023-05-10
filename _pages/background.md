@@ -32,6 +32,7 @@ Korean (L1, Heritage)<br>
 High German (C1, Business proficiency)<br>
 Swiss German (C1, Excellent oral proficiency)<br>
 French (A2/B1, Lower-intermediate written and oral proficiency)<br>
+Dutch (A2, Beginner written and oral proficiency)<br>
 Danish (A0, Beginner)<br>
 </p>
 

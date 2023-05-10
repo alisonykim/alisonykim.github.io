@@ -4,7 +4,7 @@ title: Words I Like
 permalink: /words/
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 Some words that I like because they make me laugh, sound pleasant, are fun to pronounce, etc.
