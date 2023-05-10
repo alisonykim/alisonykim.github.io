@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- Thesis Project -->
-<h3><a href="https://github.com/alisonykim/ma-thesis-learning-a-decoding-objective" target="_blank">&#128292; Learning a decoding objective from human-generated text</h3>
+<h3>&#128292; <a href="https://github.com/alisonykim/ma-thesis-learning-a-decoding-objective" target="_blank">Learning a decoding objective from human-generated text</a></h3>
 <p>
 	Advisors: <em>Prof. Dr. Rico Sennrich</em>, <em>Prof. Dr. Ryan Cotterell</em>, <em>Clara Meister, M.Sc.</em><br>
 	Topics: <em>Natural language generation</em>, <em>large language models</em>, <em>machine learning</em>, <em>scientific writing</em><br>
@@ -34,7 +34,7 @@ horizontal: false
 
 
 <!-- Classifying Reclaimed Slurs Using Naïve Bayes -->
-<h3><a href="https://gitlab.uzh.ch/alisonyong-ju.kim/classifying-reclaimed-slurs-in-automated-hate-speech-detection" target="_blank">&#128406; Classifying reclaimed slurs using naïve Bayes</a></h3>
+<h3>&#128406; <a href="https://gitlab.uzh.ch/alisonyong-ju.kim/classifying-reclaimed-slurs-in-automated-hate-speech-detection" target="_blank">Classifying reclaimed slurs using naïve Bayes</a></h3>
 <p>
 	Instructors: <em>Dr. Samuel Läubli, Ph.D.</em>, <em>Michelle Wastl</em><br>
 	Topics: <em>Sentiment analysis</em>, <em>hate speech detection</em>, <em>binary classification</em>, <em>Naïve Bayes</em><br>
