@@ -12,10 +12,10 @@ nav_order: 3
 
 
 <!-- Gender-tailored Semantic Role Profiling -->
+<h3>Gender-tailored Semantic Role Profiling for German</h3>
 <p>
-<strong>Gender-tailored Semantic Role Profiling for German</strong><br>
 	Klenner, M., Göhring, A., <strong>Kim, A. Y.</strong>, Massey, D. (2023).<br>
-  Accepted in poster form for <a href="https://iwcs2023.loria.fr/selected-papers/"><em>15th International Conference on Computational Semantics (IWCS)</em>, 2023</a>.
+  Accepted in poster form for <em><a href="https://iwcs2023.loria.fr/selected-papers/">15th International Conference on Computational Semantics (IWCS), 2023</a></em>.
 </p>
 
 
