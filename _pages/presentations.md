@@ -8,15 +8,15 @@ nav: true
 nav_order: 4
 ---
 <!-- _pages/publications.md -->
-<div class="publications">
+<div class="presentations">
 
 
-<!-- Swiss Text 2023 -->
+<!-- SwissText 2023 -->
+<h3>Keyword consolidation for German-language text</h3>
 <p>
-<strong>Keyword consolidation</strong><br>
 	Ghoshal, P., <strong>Kim, A. Y.</strong>, Bleiker, N. (2023).<br>
-  Workshop at <em>Swiss Text Analytics Conference (SwissText) 2023</em> (planned: June 12, 2023).<br>
-  
+  Workshop at <em><a href="https://www.swisstext.org/workshops/">8th Swiss Text Analytics Conference (SwissText 2023)</a></em>, Neuchâtel, Switzerland<br>
+  Planned: June 12, 2023
 </p>
 
 
