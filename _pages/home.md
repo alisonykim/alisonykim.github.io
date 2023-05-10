@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 <p style="font-size:20px">&#47; &#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->&#47;</p>
 
 <p>
-Computational linguistics is a beautiful intersection of informatics and the most extraordinary human invention: language.<br>
+Computational linguistics is a beautiful intersection of informatics and the most extraordinary human invention: language.<br><br>
 
 By helping teams build robust models to significantly improve output quality, I am working towards making quality text generation systems not only accessible, but exciting to everyone. As I wrap up my thesis on decoding strategies in NLG, I am excited to apply my in-depth academic knowledge and practical skill set to large-scale challenges in industries like aviation, transportation and logistics, as well as healthcare and pharma.<br><br>
 
