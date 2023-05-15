@@ -15,7 +15,7 @@ nav_order: 4
 <h3>Keyword consolidation for German-language text</h3>
 <p>
 	Parijat Ghoshal, <strong>Alison Y. Kim</strong>, Naomi Bleiker<br>
-  Workshop at <em><a href="https://www.swisstext.org/workshops/">8th Swiss Text Analytics Conference (SwissText 2023)</a></em>, Neuchâtel, Switzerland<br>
+  Workshop at <em><a href="https://www.swisstext.org/workshop-3-keywordconsolidationkeyword-consolidation/">8th Swiss Text Analytics Conference (SwissText 2023)</a></em>, Neuchâtel, Switzerland<br>
   Planned: June 12, 2023
 </p>
 
