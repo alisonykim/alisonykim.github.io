@@ -6,30 +6,32 @@ nav: true
 nav_order: 1
 ---
 
+<!-- CV -->
 
 <p>
 <strong>Curriculum Vitae:</strong> <a href="https://alisonykim.github.io/assets/pdf/CV_AlisonKim_EN_Website.pdf" target="_blank">English</a>, <a href="https://alisonykim.github.io/assets/pdf/CV_AlisonKim_DE_Website.pdf" target="_blank">German</a>
 </p>
 
-<!-- EDUCATION -->
+<!-- Bio -->
+
+<p>
+I recently completed my Master's in Digital Linguistics at the University of Zurich, where I gained theoretical knowledge and practical skills in computational linguistics (CL) and natural language processing/generation (NLP/NLG). Originally, I have a background in physics, neuroscience, and clinical psychology. I view my experiences across domains, cities, countries, and languages as assets to my work in language technology.<br><br>
+
+Before moving to Switzerland, I grew up in Los Angeles and spent about a decade in the San Francisco Bay Area. I miss the tacos and beaches of California, but have grown to enjoy rösti and Swiss rivers, especially the Aare. Also, I'm an enormous fan of the SBB/CFF/FFS and can occasionally be found reading or coding in my "train office" (pictured below on the Geneva-Zurich route along Lac Leman).<br><br>
+
+Lastly, as a computational linguist, I think foreign language learning is valuable, humbling, and fun. Currently, I'm learning Nederlands (Dutch) and Suomi (Finnish).
+</p>
+
+
+![Train office along Geneva-Zurich route by Lac Leman](../assets/img/photo_train_office.png)
+
+
+EDUCATION
 <p>
 <strong>Education</strong><br>
 2021-2023 M.A., Digital Linguistics | University of Zurich<br>
 2019-2021 M.A., Clinical Psychology | The Wright Institute<br>
 2012-2016 B.A., Physics | University of California, Berkeley
-</p>
-
-
-<!-- NATURAL LANGUAGES -->
-<p>
-<strong>Natural Languages</strong><br>
-English (L1, Native)<br>
-Korean (L1, Heritage)<br>
-High German (C1, Business proficiency)<br>
-Swiss German (C1, Excellent oral proficiency)<br>
-French (A2/B1, Lower-intermediate written and oral proficiency)<br>
-Dutch (A1, Beginner written and oral proficiency)<br>
-Finnish (A0, Beginner)<br>
 </p>
 
 
