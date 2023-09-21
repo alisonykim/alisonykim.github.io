@@ -2,25 +2,21 @@
 layout: page
 title: Background
 permalink: /background/
-# description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 1
 ---
 
-Curriculum Vitae: 
 
-
-<!-- FIX ADDRESS!!! -->
 <p>
-<strong>Curriculum Vitae:</strong> <a href="https://alisonykim.github.io/assets/pdf/CV_AlisonKim_EN.pdf" target="_blank">English</a>, <a href="https://alisonykim.github.io/assets/pdf/CV_AlisonKim_DE.pdf" target="_blank">German</a>
+<strong>Curriculum Vitae:</strong> <a href="https://alisonykim.github.io/assets/pdf/CV_AlisonKim_EN_Website.pdf" target="_blank">English</a>, <a href="https://alisonykim.github.io/assets/pdf/CV_AlisonKim_DE_Website.pdf" target="_blank">German</a>
 </p>
 
 <!-- EDUCATION -->
 <p>
 <strong>Education</strong><br>
-2021-present M.A., Linguistics @ University of Zurich<br>
-2019-2021 M.A., Clinical Psychology @ The Wright Institute<br>
-2012-2016 B.A., Physics @ University of California, Berkeley
+2021-2023 M.A., Digital Linguistics | University of Zurich<br>
+2019-2021 M.A., Clinical Psychology | The Wright Institute<br>
+2012-2016 B.A., Physics | University of California, Berkeley
 </p>
 
 
@@ -32,8 +28,8 @@ Korean (L1, Heritage)<br>
 High German (C1, Business proficiency)<br>
 Swiss German (C1, Excellent oral proficiency)<br>
 French (A2/B1, Lower-intermediate written and oral proficiency)<br>
-Dutch (A2, Beginner written and oral proficiency)<br>
-Danish (A0, Beginner)<br>
+Dutch (A1, Beginner written and oral proficiency)<br>
+Finnish (A0, Beginner)<br>
 </p>
 
 
@@ -42,5 +38,7 @@ Danish (A0, Beginner)<br>
 <strong>Programming Languages</strong><br>
 Python<br>
 MATLAB<br>
-R
+Bash<br>
+SQL<br>
+R<br>
 </p>
