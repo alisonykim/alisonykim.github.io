@@ -7,13 +7,13 @@ nav: true
 nav_order: 1
 ---
 
-This page will eventually be replaced by PDFs of my CVs, available in English and German.
+Curriculum Vitae: 
 
 
 <!-- FIX ADDRESS!!! -->
-<!-- <p>
-<strong>Curriculum Vitae:</strong> <a href="https://alisonykim.github.io/assets/pdf/cv_en.pdf" target="_blank">English</a>, German (to come)
-</p> -->
+<p>
+<strong>Curriculum Vitae:</strong> <a href="https://alisonykim.github.io/assets/pdf/CV_AlisonKim_EN.pdf" target="_blank">English</a>, <a href="https://alisonykim.github.io/assets/pdf/CV_AlisonKim_DE.pdf" target="_blank">German</a>
+</p>
 
 <!-- EDUCATION -->
 <p>
