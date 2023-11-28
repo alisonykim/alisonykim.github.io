@@ -15,13 +15,13 @@ nav_order: 1
 <!-- Bio -->
 
 <p>
-I am a recent Master's graduate in Digital Linguistics and a research assistant for the <a href="https://www.ius.uzh.ch/de/staff/professorships/alphabetical/hermstruewer/team/person.html" target="_blank">Chair for Legal Tech, Law \& Economics and Public Law at the University of Zurich Faculty of Law</a>. At the moment, my projects center on applications of NLU and ML to legal technology.<br><br>
+I am a recent Master's graduate in Digital Linguistics and a research assistant for <a href="https://www.ius.uzh.ch/de/staff/professorships/alphabetical/hermstruewer/team/person.html" target="_blank">Yoan Hermstrüwer</a> at the UZH Faculty of Law. At the moment, my projects center on applications of NLU and ML to legal technology.<br><br>
 
 Originally, I have a background in physics, neuroscience, and clinical psychology. I view my experiences across domains, countries, and languages as assets to my work in language technology.<br><br>
 
 Before moving to Switzerland, I grew up in Los Angeles and spent about a decade in the San Francisco Bay Area. I miss the tacos and beaches of California, but have grown to enjoy rösti and Swiss rivers, especially the Aare. Additionally, I'm an enormous fan of the SBB/CFF/FFS and can occasionally be found reading or coding in my "train office" (see below: Geneva-Zurich route along Lac Leman).<br><br>
 
-Lastly, foreign language learning is a valuable, humbling, and fun hobby that also positively impacts my work as a computational linguist. My active target languages at the moment are *Nederlands* (Dutch) and *Suomi* (Finnish).<br>
+Lastly, foreign language learning is a valuable, humbling, and fun hobby that also positively impacts my work as a computational linguist. My active target languages at the moment are <em>Nederlands</em> (Dutch) and <em>Suomi</em> (Finnish).<br>
 </p>
 
 
