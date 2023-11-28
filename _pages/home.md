@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 <p style="font-size:20px">&#47; &#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->&#47;</p>
 
 <p>
-Computational linguistics is a beautiful intersection of informatics and the most extraordinary human phenomenon: language.<br><br>
+Welcome, willkommen, bienvenue, welkom, tervetuloa, 환영합니다! I'm a research assistant in <a href="https://www.ius.uzh.ch/de/staff/professorships/alphabetical/hermstruewer/team/person.html" target="_blank">Yoan Hermstrüwer</a>'s group, working on the intersection of NLU and legal tech. My current research interests include text generation, computational social science (particularly in law and sociology), and German-language and low-resource NLU.<br><br>
 
-With both skills and enthusiasm for NLP — particularly language modeling, text generation, and sentiment analysis — I have honed my expertise in developing high-performing NLP models and solutions. As a recent Master’s graduate, I am excited to apply my NLP and ML skills to large-scale challenges in highly relevant industries like legal tech, finance, insurance, and healthcare and pharma.
+Feel free to read more about my academic and professional journey in the <a href="https://alisonykim.github.io/background/" target="_blank">Background</a> section. I'm happy to chat about my research, potential collaborations, or anything else you see on my website.
 
 
 <!-- A non-exhaustive list of things I enjoy:<br>
