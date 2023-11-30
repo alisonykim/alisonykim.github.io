@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 <p style="font-size:20px">&#47; &#712;&aelig;l&#618;s&#601;n <!--# /ˈælɪsən/ --> &#712;jo&#331;&#676;u <!--# 'yoŋdʑu --> k&#618;m <!--# kɪm -->&#47;</p>
 
 <p>
-Welcome, willkommen, bienvenue, welkom, tervetuloa, 환영합니다! I'm a research assistant in <a href="https://www.ius.uzh.ch/de/staff/professorships/alphabetical/hermstruewer/team/person.html" target="_blank">Yoan Hermstrüwer</a>'s group, working on the intersection of NLU and legal tech. My current research interests include text generation, computational social science (particularly in law and sociology), and German-language and low-resource NLU.<br><br>
+Welcome, willkommen, bienvenue, welkom, tervetuloa, 환영합니다!<br><br>
 
-Feel free to read more about my academic and professional journey in the <a href="https://alisonykim.github.io/background/" target="_blank">Background</a> section. I'm happy to chat about my research, potential collaborations, or anything else you see on my website.
+I'm a research assistant in <a href="https://www.ius.uzh.ch/de/staff/professorships/alphabetical/hermstruewer/team/person.html" target="_blank">Yoan Hermstrüwer</a>'s group, where I work at the intersection of NLU, law, and legal technology. My current research interests include text generation, computational social science (particularly in law and political science), and German-language and low-resource NLU.
 
 
 <!-- A non-exhaustive list of things I enjoy:<br>
