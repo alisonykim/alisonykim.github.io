@@ -21,7 +21,7 @@ Originally, I have a background in physics, neuroscience, and clinical psycholog
 
 Before moving to Switzerland, I grew up in Los Angeles and spent about a decade in the San Francisco Bay Area. I miss the tacos and beaches of California, but have grown to enjoy rösti and Swiss rivers, especially the Aare. Additionally, I'm an enormous fan of the SBB/CFF/FFS and can occasionally be found reading or coding in my "train office" (see below: Geneva-Zurich route along Lac Leman).<br><br>
 
-Lastly, I view foreign language learning as a fun and humbling hobby that also positively impacts my work as a computational linguist. My active target languages at the moment are <em>Nederlands</em> (Dutch) and <em>Suomi</em> (Finnish).<br>
+Lastly, I view foreign language learning as a fun and humbling hobby that also positively impacts my work as a computational linguist. My current active target languages are <em>Nederlands</em> (Dutch) and <em>Suomi</em> (Finnish).<br>
 </p>
 
 
