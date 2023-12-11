@@ -14,8 +14,7 @@ nav_order: 3
 <!-- Gender-tailored Semantic Role Profiling -->
 <h3>Gender-tailored Semantic Role Profiling for German</h3>
 <p>
-	Manfred Klenner, Anne Göhring, <strong>Alison Y. Kim</strong>, Dylan Massey<br>
-  Accepted in poster form for <em><a href="https://iwcs2023.loria.fr/selected-papers/">15th International Conference on Computational Semantics (IWCS), 2023</a></em>.
+	Manfred Klenner, Anne Göhring, <strong>Alison Kim</strong>, and Dylan Massey. 2023. <a href="https://aclanthology.org/2023.iwcs-1.6/" target="_blank">Gender-tailored Semantic Role Profiling for German</a>. In <em>Proceedings of the 15th International Conference on Computational Semantics</em>, pages 62–66, Nancy, France. Association for Computational Linguistics.
 </p>
 
 
